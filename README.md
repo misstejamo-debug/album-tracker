@@ -9,6 +9,8 @@ LLM-powered recommendations based on your saved albums and ratings.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/859a2f98-312c-479c-a12f-ebb1fcb66554" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a59d245c-462a-414e-b41b-76886c37938a" />
+<img width="690" height="401" alt="image" src="https://github.com/user-attachments/assets/72a6c1db-20ed-4949-9046-ba2a9dbfc56c" />
+
 
 
 ## Features
