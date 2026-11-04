@@ -7,8 +7,10 @@ LLM-powered recommendations based on your saved albums and ratings.
 
 **Live site:** https://album-tracker-m8mx.vercel.app
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/859a2f98-312c-479c-a12f-ebb1fcb66554" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a59d245c-462a-414e-b41b-76886c37938a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07d2b52b-99eb-41bb-9f66-ce5e1c8a5514" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9bb0bdff-8475-4621-ad6f-206b9c8f8c0e" />
+
 <img width="690" height="401" alt="image" src="https://github.com/user-attachments/assets/72a6c1db-20ed-4949-9046-ba2a9dbfc56c" />
 
 
